@@ -1,4 +1,3 @@
-'''How Many Numbers Are Smaller Than the Current Number'''
 class Solution(object):
     def smallerNumbersThanCurrent(self, nums):
         output = []
